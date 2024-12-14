@@ -2,6 +2,12 @@
 
 A new Flutter project following Clean Code Architecture.
 
+# To Run the Project
+1. Clone the repository.
+2. Run `flutter pub get` to install dependencies.
+3. Run 'dart pub run build_runner build --delete-conflicting-outputs' to generate the required files.
+4. Run the project using `flutter run`.
+
 ## Features
 
 - **Bottom Navigation Bar with Three Tabs:**
